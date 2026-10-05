@@ -69,54 +69,54 @@ The table below summarizes leading commercial search engines and hosted search p
 
 ## 🔓 Open-Source GitHub Projects
 
-The following list of open-source search engines, metasearch proxies, and application search frameworks is sorted by GitHub star count (descending).
+The following list of open-source search engines, metasearch proxies, and application search frameworks is sorted by GitHub Stars_Count (descending).
 
-- **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
+- **[Meilisearch](https://github.com/meilisearch/meilisearch)** [![GitHub_Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) ⚡  
   **Lightning-fast, open-source search engine for applications**, MIT licensed. **Not a web search engine** — it's a search API for your own data. Typo-tolerant, faceted search with instant results. **The leading open-source alternative to Algolia**.
 
-- **[SearXNG](https://github.com/searxng/searxng)** [![GitHub Stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers) 🛡️  
+- **[SearXNG](https://github.com/searxng/searxng)** [![GitHub_Stars](https://img.shields.io/github/stars/searxng/searxng?style=social&color=white)](https://github.com/searxng/searxng/stargazers) 🛡️  
   **The leading open-source metasearch engine**, AGPL-3.0 licensed. **Aggregates results from 70+ search engines** — Google, Bing, DuckDuckGo, Wikipedia, and more — without tracking users. Self-hostable via Docker with result filtering, safe search, and JSON API.
 
-- **[Typesense](https://github.com/typesense/typesense)** [![GitHub Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers) 🚀  
+- **[Typesense](https://github.com/typesense/typesense)** [![GitHub_Stars](https://img.shields.io/github/stars/typesense/typesense?style=social&color=white)](https://github.com/typesense/typesense/stargazers) 🚀  
   **Open-source, typo-tolerant search engine for applications**, GPL-3.0 licensed. Fast, relevant, and easy to deploy. The main open-source competitor to Meilisearch for site search, e-commerce, and app search.
 
-- **[ZincSearch](https://github.com/zinclabs/zincsearch)** [![GitHub Stars](https://img.shields.io/github/stars/zinclabs/zincsearch?style=social&color=white)](https://github.com/zinclabs/zincsearch/stargazers) 📦  
+- **[ZincSearch](https://github.com/zinclabs/zincsearch)** [![GitHub_Stars](https://img.shields.io/github/stars/zinclabs/zincsearch?style=social&color=white)](https://github.com/zinclabs/zincsearch/stargazers) 📦  
   **Lightweight search engine & Elasticsearch alternative in Go**, Apache-2.0 licensed. Requires low memory footprint, features built-in UI, and provides fast full-text search indexing.
 
-- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers) 📊  
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers) 📊  
   **Apache 2.0 licensed community fork of Elasticsearch** with search and analytics capabilities. Designed for log analytics, enterprise search, and application observability.
 
-- **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** [![GitHub Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social&color=white)](https://github.com/manticoresoftware/manticoresearch/stargazers) ⚡  
+- **[Manticore Search](https://github.com/manticoresoftware/manticoresearch)** [![GitHub_Stars](https://img.shields.io/github/stars/manticoresoftware/manticoresearch?style=social&color=white)](https://github.com/manticoresoftware/manticoresearch/stargazers) ⚡  
   **Fast open-source database for search and analytics**, GPL-2.0 licensed. Successor to Sphinx search, offering high-throughput full-text search, vector search integration, and SQL API support.
 
-- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers) 🦀  
+- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers) 🦀  
   **Cloud-native search engine for logs and trace indexing in Rust**, AGPL-3.0 licensed. Sub-second search engine optimized for Amazon S3 & cloud storage with high indexing throughput.
 
-- **[Whoogle Search](https://github.com/benbusby/whoogle-search)** [![GitHub Stars](https://img.shields.io/github/stars/benbusby/whoogle-search?style=social&color=white)](https://github.com/benbusby/whoogle-search/stargazers) 🔒  
+- **[Whoogle Search](https://github.com/benbusby/whoogle-search)** [![GitHub_Stars](https://img.shields.io/github/stars/benbusby/whoogle-search?style=social&color=white)](https://github.com/benbusby/whoogle-search/stargazers) 🔒  
   **Self-hosted, ad-free, privacy-respecting metasearch engine that uses Google results**, MIT licensed. Strips Google's tracking, ads, and AMP. Requires no JavaScript and supports single-click Docker deployment.
 
-- **[Vespa](https://github.com/vespa-engine/vespa)** [![GitHub Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers) 🧠  
+- **[Vespa](https://github.com/vespa-engine/vespa)** [![GitHub_Stars](https://img.shields.io/github/stars/vespa-engine/vespa?style=social&color=white)](https://github.com/vespa-engine/vespa/stargazers) 🧠  
   **Open-source big data serving engine for search & vector retrieval**, Apache-2.0 licensed created by Yahoo. Scalable search engine supporting vector search, AI ranking, and real-time computation over massive datasets.
 
-- **[YaCy](https://github.com/yacy/yacy_search_server)** [![GitHub Stars](https://img.shields.io/github/stars/yacy/yacy_search_server?style=social&color=white)](https://github.com/yacy/yacy_search_server/stargazers) 🌐  
+- **[YaCy](https://github.com/yacy/yacy_search_server)** [![GitHub_Stars](https://img.shields.io/github/stars/yacy/yacy_search_server?style=social&color=white)](https://github.com/yacy/yacy_search_server/stargazers) 🌐  
   **Decentralized peer-to-peer web search engine**, GPL-2.0 licensed. Operates without a central server — every peer crawls and indexes independently, sharing search results across a p2p network.
 
-- **[Stract](https://github.com/StractOrg/stract)** [![GitHub Stars](https://img.shields.io/github/stars/StractOrg/stract?style=social&color=white)](https://github.com/StractOrg/stract/stargazers) 🏗️  
+- **[Stract](https://github.com/StractOrg/stract)** [![GitHub_Stars](https://img.shields.io/github/stars/StractOrg/stract?style=social&color=white)](https://github.com/StractOrg/stract/stargazers) 🏗️  
   **Independent open-source search engine with its own web index**, AGPL-3.0 licensed. Crawls and ranks web pages independently rather than proxying external commercial search engines.
 
-- **[Marginalia Search](https://github.com/MarginaliaSearch/MarginaliaSearch)** [![GitHub Stars](https://img.shields.io/github/stars/MarginaliaSearch/MarginaliaSearch?style=social&color=white)](https://github.com/MarginaliaSearch/MarginaliaSearch/stargazers) 📜  
+- **[Marginalia Search](https://github.com/MarginaliaSearch/MarginaliaSearch)** [![GitHub_Stars](https://img.shields.io/github/stars/MarginaliaSearch/MarginaliaSearch?style=social&color=white)](https://github.com/MarginaliaSearch/MarginaliaSearch/stargazers) 📜  
   **Independent search engine focused on non-commercial web content**, AGPL-3.0 licensed. Indexes text-heavy personal blogs, forums, and historical web pages, promoting an anti-SEO discovery experience.
 
-- **[Gigablast](https://github.com/gigablast/open-source-search-engine)** [![GitHub Stars](https://img.shields.io/github/stars/gigablast/open-source-search-engine?style=social&color=white)](https://github.com/gigablast/open-source-search-engine/stargazers) 🏛️  
+- **[Gigablast](https://github.com/gigablast/open-source-search-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/gigablast/open-source-search-engine?style=social&color=white)](https://github.com/gigablast/open-source-search-engine/stargazers) 🏛️  
   **Open-source C/C++ web search engine and indexer**, Apache-2.0 licensed. Historically significant standalone web search engine baseline built for high scalability.
 
-- **[MetaGer](https://github.com/Orbiter/MetaGer)** [![GitHub Stars](https://img.shields.io/github/stars/Orbiter/MetaGer?style=social&color=white)](https://github.com/Orbiter/MetaGer/stargazers) 🛡️  
+- **[MetaGer](https://github.com/Orbiter/MetaGer)** [![GitHub_Stars](https://img.shields.io/github/stars/Orbiter/MetaGer?style=social&color=white)](https://github.com/Orbiter/MetaGer/stargazers) 🛡️  
   **German non-profit privacy metasearch engine**, SUMA-EV open-source project. Aggregates major search indexes with integrated Tor routing option and green energy hosting.
 
-- **[LibreY](https://github.com/Ahwxorg/LibreY)** [![GitHub Stars](https://img.shields.io/github/stars/Ahwxorg/LibreY?style=social&color=white)](https://github.com/Ahwxorg/LibreY/stargazers) 🍃  
+- **[LibreY](https://github.com/Ahwxorg/LibreY)** [![GitHub_Stars](https://img.shields.io/github/stars/Ahwxorg/LibreY?style=social&color=white)](https://github.com/Ahwxorg/LibreY/stargazers) 🍃  
   **Minimalist privacy metasearch engine** supporting multiple search engines, torrent search, and media extraction without user tracking.
 
-- **[Common Crawl Index](https://github.com/commoncrawl/cc-index-table)** [![GitHub Stars](https://img.shields.io/github/stars/commoncrawl/cc-index-table?style=social&color=white)](https://github.com/commoncrawl/cc-index-table/stargazers) 🗄️  
+- **[Common Crawl Index](https://github.com/commoncrawl/cc-index-table)** [![GitHub_Stars](https://img.shields.io/github/stars/commoncrawl/cc-index-table?style=social&color=white)](https://github.com/commoncrawl/cc-index-table/stargazers) 🗄️  
   **Open repository of web crawl data**, providing petabytes of raw web pages, columnar index tables, and parsing utilities for web search engine builders.
 
 - **[4get](https://github.com/4get-org/4get)** 🍃  
